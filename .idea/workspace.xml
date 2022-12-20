@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9bb84e89-5868-40ba-827d-a8e1181748c9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contents/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contents/img/lego_pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/img/lego_pic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contents/img/maker.png" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/img/maker.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contents/img/software.png" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/img/software.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contents/lego.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/lego.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contents/others.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/others.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contents/software.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/software.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +31,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "16.17.0",
-    "javascript.nodejs.core.library.typings.version": "16.18.10",
-    "last_opened_file_path": "/Users/parkdaeun/Desktop/important/frontEnd/pages/contents",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.17.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/parkdaeun/Desktop/important/frontEnd/pages/contents&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages/contents" />
@@ -105,7 +98,8 @@
       <workItem from="1670844996621" duration="44000" />
       <workItem from="1670894316005" duration="7281000" />
       <workItem from="1670914751243" duration="4728000" />
-      <workItem from="1671459620411" duration="1042000" />
+      <workItem from="1671459620411" duration="1844000" />
+      <workItem from="1671491454381" duration="846000" />
     </task>
     <servers />
   </component>
