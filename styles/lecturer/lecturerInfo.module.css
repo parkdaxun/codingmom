@@ -1,0 +1,26 @@
+.info{
+    width: 300px;
+    height: 400px;
+    font-weight: bold;
+}
+
+.info > p{
+    margin-top: 5px;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+}
+
+.name{
+
+}
+
+.category{
+
+}
+
+.email{
+
+}

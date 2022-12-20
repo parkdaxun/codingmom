@@ -1,0 +1,11 @@
+.title {
+    text-decoration : underline;
+    text-align : center;
+    font-weight: bold;
+    font-size : 40px;
+    margin-bottom: 60px;
+}
+
+.title > p{
+    margin-bottom: 40px;
+}

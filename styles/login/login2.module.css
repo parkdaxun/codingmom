@@ -1,0 +1,164 @@
+
+.loginmain {
+    width: 100vw;
+    height: 100vh;
+    background-color: #4065C5;
+    animation: fadein 2s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.logins {
+    background-color: white;
+    width: 80%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+}
+
+.filebox {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    border-right: 2px solid lightgray;
+}
+
+.inputbox {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name {
+    width: 50%;
+    height: 40px;
+    padding: 5px;
+    font-size: 20px;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    transition: 0.2s;
+    margin-bottom: 5rem;
+}
+
+.name:focus {
+    outline: none;
+    transform: scale(1.02);
+    border-bottom: 1px solid #4065C5;
+    transition: 0.2s;
+}
+
+@keyframes fadeInLeft {
+    0% {
+        opacity: 0;
+        transform: translate3d(-100%, 0, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translateZ(0);
+    }
+}
+
+.p1 {
+    font-size: 25px;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+}
+
+.users {
+    width: 50%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.users input[type="radio"]+label {
+    cursor: pointer;
+    height: 40px;
+    width: 40%;
+    border: 1px solid #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 17px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition: 0.3s;
+}
+
+.users input[type="radio"],
+.lectures input[type="radio"] {
+    display: none;
+}
+
+.users input[type="radio"]:checked + label,
+.lectures input[type="radio"]:checked + label {
+    background-color: #4065C5;
+    color: white;
+    border: none;
+    transition: 0.3s;
+}
+
+.users input[type="radio"]:hover + label,
+.lectures input[type="radio"]:hover + label {
+    box-shadow: 0 0 2px black;
+}
+
+.buttonbox {
+    margin-top: 8rem;
+    width: 50%;
+    height: 50px;
+}
+
+.gosign {
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size: 20px;
+    background-color: #4065C5;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.lectures {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.lectures input[type="radio"] + label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0 30px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #333;
+    cursor: pointer;
+}
+
+.p2 {
+    font-size: 25px;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+    margin-top: 5rem;
+}

@@ -1,0 +1,36 @@
+.material{
+    display: flex;
+    margin-left: 30px;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.space {
+    justify-content: space-between;
+}
+
+.item {
+    background-color: #F6F6F6;
+    padding : 20px;
+    color : black;
+}
+
+.title {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.Im {
+    margin-left: 40px;
+}
+
+.margin {
+    height : 100px;
+    width : 100px;
+}
+
+.margin2 {
+    height : 200px;
+    width : 200px;
+}

@@ -1,0 +1,41 @@
+.main{
+    width: 100%;
+    height: 400vh;
+    animation: fadein 1s;
+}
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.mainIntro{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.mainC, .mainM, .mainS{
+    font-weight: bold;
+    font-size: 50px;
+    position: absolute;
+    color: white;
+}
+
+.mainC{
+    top: 4em;
+    left: 3em;
+}
+
+.mainM{
+    top: 5.2em;
+    left: 5.5em;
+}
+
+.mainS{
+    top: 8em;
+    left: 3em;
+}

@@ -1,0 +1,22 @@
+.class > h2{
+    font-size: 35px;
+    padding: 0 30px 10px 30px;
+    border-bottom: 1px solid black;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.explain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.explain > p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.root{
+    width: 90%;
+}

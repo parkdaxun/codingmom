@@ -1,0 +1,81 @@
+.content{
+    width: 100%;
+    height: 100vh;
+}
+
+.flex{
+    display: flex;
+    margin-top: 40px;
+}
+
+.vertical{
+    margin-left: 50px;
+}
+
+.title{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.lego{
+    cursor:pointer;
+    margin-left: 60px;
+    position: relative;
+    width: 680px;
+    height: 600px;
+}
+
+.legoImg, .softwareImg, .othersImg{
+    width: 100%;
+    height: 100%;
+}
+
+.legoDiv, .softwareDiv, .othersDiv{
+    position: absolute;
+    margin: 10px 0 0 30px;
+    z-index: 2;
+}
+
+.legoFirst, .softwareFirst, .othersFirst{
+    font-size: 70px;
+    font-weight: bold;
+    color: #EBFF00;
+    font-style: italic;
+}
+
+.legoText, .softwareText, .othersText{
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+}
+
+.legoArrow, .softwareArrow, .othersArrow{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: lightgray;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.software, .others{
+    position: relative;
+    width: 680px;
+    height: 280px;
+}
+
+.softwareFirst{
+    color: #66FFFF;
+}
+
+.others{
+    margin-top: 40px;
+}
+
+.othersFirst{
+    color: #F87373;
+}

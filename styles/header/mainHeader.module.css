@@ -1,0 +1,76 @@
+.header{
+    display: flex;
+    align-items: center;
+    background: none;
+    height: 80px;
+    color: white;
+    z-index: 3;
+    width: 100%;
+    font-weight: bold;
+    font-size: 18px;
+    position: fixed;
+    animation: growUp 1s;
+    transition: all ease 1s;
+}
+
+.invisible{
+    animation: growDown 1s;
+    animation-fill-mode: forwards;
+}
+
+.whiteBack{
+    background-color: white;
+    color: black;
+    transition: all ease 1s;
+}
+
+@keyframes growDown {
+    0% {
+        opacity: 1;
+        transform: translateZ(0);
+    }
+    to {
+        opacity: 0;
+        transform: translate3d(0, -100%, 0);
+    }
+}
+
+@keyframes growUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, -100%, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translateZ(0);
+    }
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.nav > span{
+    margin-right: 60px;
+    cursor: pointer;
+}
+
+.auth{
+    width: 15%;
+    margin-right: 1em;
+}
+
+.auth > span{
+    margin-right: 3rem;
+    cursor: pointer;
+}
+
+.headerImg{
+    margin-left: 20px;
+    padding-top: 10px;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}

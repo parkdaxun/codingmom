@@ -1,0 +1,69 @@
+.loginmain{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #4065C5;
+    animation: fadein 2s;
+}
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.logins{
+    position: absolute;
+    background-color: white;
+    width: 90%;
+    height: 80%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.logong {
+    position: fixed;
+    width: 32%;
+    height: 40%;
+    margin-left: 9%;
+    margin-top: 5%;
+    cursor: pointer;
+}
+
+.logback {
+    width: 28%;
+    height: 75%;
+    position: fixed;
+    margin-left: 57%;
+    margin-top:2%;
+}
+
+.kakao {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 70vh;
+    margin-left: 10%;
+    width: 40%;
+    height: 10%;
+    border: 0;
+    border-radius: 5px;
+    background-color: #FDDC3F;
+}
+
+.kakaoicon {
+    position: absolute;
+    margin-left: -47%;
+    margin-top: -4vh;
+    height: 80%;
+}
+.start {
+    position: fixed;
+    width: 100%;
+    height: 10%;
+    margin-top: -1%;
+    margin-left:-50%;
+    font-weight: bold;
+    font-size: 25px;
+}

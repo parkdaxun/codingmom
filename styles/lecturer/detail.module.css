@@ -1,0 +1,51 @@
+.detail{
+    width: 100%;
+    height: 100%;
+    background-color: #4065C5;
+}
+
+.blue{
+    background-color: white;
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img{
+    margin-top: 100px;
+    z-index: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.info > p{
+    font-size: 20px;  
+    line-height: 40px; 
+}
+
+.info > input {
+    display: block;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 30px !important;
+}
+
+.info{
+    width: 60%;
+    margin: 60px auto;
+}

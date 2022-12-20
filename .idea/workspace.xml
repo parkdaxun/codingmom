@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bb84e89-5868-40ba-827d-a8e1181748c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/util/axiosSetting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contents/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contents/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/header/colored_header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/header/colored_header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/header/mainHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/header/mainHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/intro/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/intro/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lecturer/detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lecturer/detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lecturer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lecturer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/login2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/loginpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/auth/loginpage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GHwmRoYOn6mwBHXw5fdZhsugF7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.14.2",
+    "javascript.nodejs.core.library.typings.version": "16.18.8",
+    "last_opened_file_path": "C:/Users/SW2127/Desktop/all/make_me/dblog/D-blog_Frontend",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SW2127\Desktop\all\make_me\teamChosoohyun\front\pages\auth" />
+      <recent name="C:\Users\SW2127\Desktop\all\make_me\teamChosoohyun\front\components" />
+      <recent name="C:\Users\SW2127\Desktop\all\make_me\teamChosoohyun\front\styles\header" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb84e89-5868-40ba-827d-a8e1181748c9" name="Changes" comment="" />
+      <created>1666058975697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666058975697</updated>
+      <workItem from="1666058977508" duration="4393000" />
+      <workItem from="1666081056918" duration="8782000" />
+      <workItem from="1666176628277" duration="2889000" />
+      <workItem from="1666248609264" duration="23000" />
+      <workItem from="1666658607712" duration="8190000" />
+      <workItem from="1666695309698" duration="32000" />
+      <workItem from="1667215294014" duration="680000" />
+      <workItem from="1667263488502" duration="7509000" />
+      <workItem from="1667343875216" duration="734000" />
+      <workItem from="1667370311121" duration="24000" />
+      <workItem from="1668594074221" duration="24000" />
+      <workItem from="1669685500019" duration="6168000" />
+      <workItem from="1669726506676" duration="52000" />
+      <workItem from="1670833908244" duration="2359000" />
+      <workItem from="1670844996621" duration="44000" />
+      <workItem from="1670894316005" duration="7281000" />
+      <workItem from="1670914751243" duration="4728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="next.config.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

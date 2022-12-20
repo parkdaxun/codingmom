@@ -1,0 +1,49 @@
+.header{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    color: white;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    font-weight: bold;
+    font-size: 18px;
+    position: fixed;
+}
+
+.link{
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav > span{
+    cursor: pointer;
+    margin-right: 60px;
+}
+
+.auth{
+    width: 15%;
+    margin-right: 1em;
+}
+
+.auth > span{
+    cursor: pointer;
+    margin-right: 60px;
+}
+
+.text{
+    color: black;
+}
+
+.headerImg{
+    width: 120px;
+    margin-left: 20px;
+}

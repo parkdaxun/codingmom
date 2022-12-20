@@ -1,0 +1,119 @@
+.content {
+    width: 100%;
+    height: 100%;
+    background-color: #4065C5;
+    animation: fadein 1s;
+}
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.container {
+    position: relative;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+    padding-top: 15vh;
+    font-size: 50px;
+}
+.info {
+    text-align: center;
+    padding-top: 5vh;
+    font-size: 25px;
+}
+.mainImg {
+    margin-top: 10vh;
+    width:100%;
+    height: 600px;
+}
+.titled {
+    text-align: center;
+    padding-top: 15vh;
+    font-size: 50px;
+}
+.justline {
+    width: 15%;
+    height: 0.2vh;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 2vh;
+}
+.subImg {
+    width: 85%;
+    height: 400px;
+    margin-left: 7.5%;
+    margin-top: 15vh;
+}
+.barImg {
+    width: 4.2%;
+    height: 22%;
+    margin-left: 48%;
+    margin-top: 9vh;
+}
+.divyear1 {
+    margin-right: 53%;
+    margin-top: -57.5%;
+}
+.year1, .year3, .year5 {
+    font-size: 30px;
+    direction: rtl;
+}
+.year1p, .year3p, .year5p {
+    font-size: 15px;
+    direction: rtl;
+}
+.divyear2 {
+    margin-left: 53%;
+}
+.year2, .year4 {
+    font-size: 30px;
+}
+.year2p, .year4p {
+    font-size: 15px;
+}
+.divyear3{
+    margin-right: 53%;
+}
+.divyear4{
+    margin-left: 53%;
+    margin-top:1.5%;
+}
+.divyear5{
+    margin-right: 53%;
+}
+.sns {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.justline2 {
+    width: 250px;
+    height: 0.2vh;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 2vh;
+}
+.divblog, .facebook, .divinsta {
+    text-align:center;
+    margin: 0 auto;
+    margin-left: -30%;
+    margin-top: 5%;
+}
+.blog, .face, .insta {
+    display:block;
+    margin: 0 auto;
+}
+.gonaver, .h1face, .h1insta {
+    text-align:center;
+    margin-top: -55px;
+    margin-left: 400px;
+}
